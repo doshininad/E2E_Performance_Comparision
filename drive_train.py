@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 22 21:29:53 2017
-
-@author: jaerock
-"""
 
 import matplotlib.pyplot as plt
 import cv2
