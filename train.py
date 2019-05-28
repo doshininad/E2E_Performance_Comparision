@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 22 16:50:52 2017
-
-@author: jaerock
-"""
 
 import sys
 from drive_train import DriveTrain
