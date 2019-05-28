@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  3 14:35:34 2017
+Created on Tue April 11 14:35 2019
 
-@author: jaerock
+@author: ninad
 """
 
 from keras.models import Sequential, Model
