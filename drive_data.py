@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 22 15:37:04 2017
-
-@author: jaerock
-"""
 
 import pandas as pd
 from progressbar import ProgressBar
